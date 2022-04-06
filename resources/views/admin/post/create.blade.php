@@ -21,6 +21,7 @@
                     <textarea name="content" class="form-control" id="content" name="content"></textarea>
                 </div>
                 
+                
                 <button type="submit" class="btn btn-primary">Salva</button>
               </form>
 
